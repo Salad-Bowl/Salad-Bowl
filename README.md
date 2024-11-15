@@ -6,6 +6,6 @@ this is where proof of work will be posted for the sake of a portfolio :)
 
 Introduction to Programming
 
-Networking and uhhhhhhh the other one
+Networking 
 
-Professional and Academic Skills
+and Professional and Academic Skills
